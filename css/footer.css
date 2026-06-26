@@ -5,7 +5,7 @@
 
 .footer-container {
   display: flex;
-  align-items: baseline;
+  align-items: flex-start; /* Виправлено на flex-start */
   gap: 0;
 }
 
