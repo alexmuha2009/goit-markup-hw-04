@@ -1,8 +1,10 @@
+.features {
+  padding: 120px 0;
+}
+
 .features-list {
   display: flex;
   gap: 24px;
-  padding-left: 0;
-  list-style: none;
 }
 
 .features-item {
@@ -17,6 +19,7 @@
   background-color: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
+  border: 1px solid #8e8f99;
 }
 
 .features-icon {
